@@ -25,5 +25,5 @@ Like the database, I stored an encryted version of the URL in a C/C++ file.
 
 ### Screenshots of the application
 
-![Alt text](https://github.com/Willipo99/SecuredBankApp_TD3_Willipo99_IOS2/tree/main/app/src/screenshots/accueil.JPG)
-![Alt text](https://github.com/Willipo99/SecuredBankApp_TD3_Willipo99_IOS2/app/src/screenshots/displaydata.JPG)
+![Alt text](https://github.com/Willipo99/SecureBankApp_TD3_Willipo99_IOS2/tree/main/app/src/screenshots/accueil.JPG)
+![Alt text](https://github.com/Willipo99/SecureBankApp_TD3_Willipo99_IOS2/app/src/screenshots/displaydata.JPG)
